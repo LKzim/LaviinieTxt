@@ -1,5 +1,6 @@
 <  LaviniieTxt Texture By LK & Nippy  > 
 - version 1.0 -
+- minecraft version 1.8.9 -
 
 ///////////////////////////////
 
