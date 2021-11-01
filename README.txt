@@ -1,1 +1,2 @@
-< Textura Di Cria LaviniieTxt By LK & Nippy >
+< Textura LaviniieTxt By LK & Nippy >
+version 1.0
